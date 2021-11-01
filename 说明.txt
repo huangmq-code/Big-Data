@@ -1,0 +1,4 @@
+本大数据项目主要运用spark和flink技术，欢迎大家为项目添砖加瓦
+This big data project mainly uses spark and flink technology, welcome everyone to contribute to the project
+このビッグデータプロジェクトは主にsparkとflinkテクノロジーを使用しており、プロジェクトに貢献するすべての人を歓迎します
+이 빅 데이터 프로젝트는 주로 spark 및 flink 기술을 사용하며 프로젝트에 기여하는 모든 사람을 환영합니다.
